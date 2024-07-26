@@ -3,8 +3,6 @@
 <h1 align="center">Hi 👋, I'm Sina Malekzadeh</h1>
 <h3 align="center">A react developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=itssinaa&label=Profile%20views&color=0e75b6&style=flat" alt="itssinaa" /> </p>
-
 - 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **sinaaamlk@gmail.com**
